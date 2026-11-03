@@ -1,7 +1,7 @@
-# K80 Pro 6 GHz unlock — experimental, version locked
+# K80 Pro/poco f7ultra 6 GHz unlock
 
-用于 Redmi K80 Pro（`miro`）指定国际版 ROM 的 Wi-Fi 6 GHz 驱动补丁与 Magisk 模块生成工具。
-仓库只包含独立编写的脚本和文档。使用者提供本机原驱动，在电脑上校验并生成安装包。
+用于 Redmi K80 Pro / POCO F7 Ultra（`miro`）指定国际版 ROM 的 Wi-Fi 6 GHz 驱动补丁与 Magisk 模块生成工具。
+实验性项目，严格锁定版本。仓库只包含独立编写的脚本和文档。使用者提供本机原驱动，在电脑上校验并生成安装包。
 
 ## 已验证范围
 
