@@ -1,0 +1,13 @@
+The MIT license applies only to the independently authored scripts and
+project documentation in this repository. No vendor driver, firmware,
+ROM image, device dump, or captured network log is distributed here.
+
+The locally inspected Qualcomm Atheros driver declares:
+  author=Qualcomm Atheros, Inc.
+  license=Dual BSD/GPL
+This metadata alone is not a complete license audit of the binary.
+The driver retains its original copyright and applicable license terms;
+it is not relicensed under this project's MIT license. A locally generated
+module ZIP contains a modified vendor binary. Before redistributing such
+an artifact, determine and satisfy the vendor binary's applicable terms.
+The patching scripts are not corresponding source code for that driver.

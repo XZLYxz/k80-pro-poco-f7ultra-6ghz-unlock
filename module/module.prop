@@ -1,0 +1,6 @@
+id=k80pro_wifi6g
+name=K80 Pro 6GHz (version-locked, guarded)
+version=1.3
+versionCode=4
+author=Local device configuration
+description=miro OS3.0.302.0.WOMMIXM only. Runtime driver reload after boot; original files unchanged. Early unexpected reboot disables this module.
